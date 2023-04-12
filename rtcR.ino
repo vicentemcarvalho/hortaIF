@@ -102,5 +102,5 @@ void loop() {
 		digitalWrite(pinRele, HIGH);
 		Serial.println("LOW");
 	}
-	delay(10000);
+	delay(9500);
 }
